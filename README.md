@@ -33,7 +33,7 @@ https://tracker.yandex.ru/BUGSPLUS-48710
 
 Ссылка: https://miro.com/app/board/uXjVPvvwFSw=/?share_link_id=649952421705
 
-[MindMap](https://github.com/kuznetsovqa/myportfolio/blob/main/Mind%20Map.jpg)
+![MindMap](https://github.com/kuznetsovqa/myportfolio/blob/main/Mind%20Map.jpg)
 
 
 
@@ -75,7 +75,9 @@ https://tracker.yandex.ru/BUGSPLUS-48710
 
 Так же визуализирован алгоритм выбора скорости транспорта в зависимости от времени начала поездки, был выбран один вид транспорта - собственный автомобиль и создана блок-схема в draw.io 
 
-Ссылка:
+Ссылка:https://drive.google.com/file/d/1rBY2lZ78seUuiw-hHqtrTVRIRk2VF9sG/view?pli=1
+
+![Блок-схема](https://github.com/kuznetsovqa/myportfolio/blob/main/Блок-схема.png)
 
 
 
