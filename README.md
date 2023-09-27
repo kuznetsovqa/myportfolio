@@ -33,7 +33,7 @@ https://tracker.yandex.ru/BUGSPLUS-48710
 
 Ссылка: https://miro.com/app/board/uXjVPvvwFSw=/?share_link_id=649952421705
 
-
+[Image alt](https://github.com/kuznetsovqa/myportfolio/blob/main/Mind%20Map.jpg)
 
 
 
