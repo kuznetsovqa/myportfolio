@@ -177,7 +177,13 @@ Samsung Galaxy A12 ,ОС Android 12.0 ,разрешение экрана 1080х1
 
 
 
+C помощью INSERT INTO добавлял продукты в таблицу 
 
+
+![InsertINTOl](https://github.com/kuznetsovqa/myportfolio/blob/main/INSERTINTO.png)
+
+
+Так же выполнял фильтрацию по категориям товаров, сортировку по количеству  возрастания продуктов, с полным отчетом можно ознакомиться по ссылке: https://docs.google.com/document/d/1Dee7vVZoa6nGud9lCurIN9RU9gyJ0qY_W4FSOa8-X9c/edit
 
 
 
