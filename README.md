@@ -26,7 +26,7 @@ https://tracker.yandex.ru/BUGSPLUS-48710
 Так же был проведен ретест уже ранее зарегистрированных багов и их актуализация в Яндекс Трекере.
 
 
-## 2) Проведение тест-анализа (декомпозиция требований,визуализация, поиск серых зон) в приложении Яндекс Маршруты
+## 2) Проведение тест-анализа (декомпозиция требований,визуализация, поиск серых зон) в приложении "Яндекс Маршруты"
 Были проанализированы требования к приложению в системе Wiki. [https://praktikum.notion.site/e9cf030bce59462cbcc25a78263f8ae8](https://wiki.yandex.ru/homepage/trebovanija-k-jandeks.marshruty/)https://wiki.yandex.ru/homepage/trebovanija-k-jandeks.marshruty/
 
 По итогам работы были проанализированы, декомпозированы требования и создана визуализация MindMap в Miro. 
@@ -104,7 +104,7 @@ https://tracker.yandex.ru/BUGSPLUS-82091
 
 В ходе тестирования в Яндекс Браузере Яндекс Маршрутов 2.0, наличие нового вида транспорта аэротакси в режиме “Свой” и отображение расчета стоимости и времени,выявлен баг с критичным приоритетом, так как название нового вида транспорта не отображается. В связи с этим дана рекомендация исправления данного бага до релиза.
 
-## 5) Выполнял роль тест-лидера в командных проектах по проведению тестирования приложений Stellar Burgers,Продуктовый момощник и KittiGram 
+## 5) Выполнял роль тест-лидера в командных проектах по проведению тестирования приложений "Stellar Burgers","Продуктовый момощник" и "KittyGram" 
 
 Ссылка на требования Stellar Burgers: https://wiki.yandex.ru/homepage/trebovanijakstellarburgers/
 
@@ -115,10 +115,38 @@ https://tracker.yandex.ru/BUGSPLUS-82091
 По результатам всех работ создан отчёт о тестировании, ссылка на отчёт: https://docs.google.com/document/d/1UtWeMIeU9Pe2FXpRFRhxLMSE3Ps3NgaGtrfWxB4-ixo/edit
 
 
+## 6) Провёл тестирование мобильного приложения "Яндекс Метро" на Android
+
+В работе использовал эмулятор Android Studio. 
+
+Тестирование проводилось в следующем тестовом окружении: 
+
+Honor 8, ОС Android 9.0 Pie, разрешение экрана 1080х1920, диагональ 5.5
+
+Регрессионные тесты и верстка проводились так же на тестовом окружении:
+
+Samsung Galaxy A12 ,ОС Android 12.0 ,разрешение экрана 1080х1920, диагональ 6,5
+
+Huawei P10 plus, ОС Android 11.0, разрешение экрана 360х640
+
+Номер тестируемой версии приложения: Яндекс Метро версия 3,6 . Все требования, затронутые изменениями, были покрыты тест-кейсами: https://tms.devexplab.ru/projects/kuznetsov-7sprint-mobile/testcases
+
+При составлении проверок применялись такие техники тест-дизайна, как попарное тестирование, ссылка на таблицу: https://docs.google.com/spreadsheets/d/10FjjtN3cIZn-cZyZMX6W2WvQVjWrRfqcchadOuYdqBk/edit?usp=sharing
+
+
+
+![ТПР](https://github.com/kuznetsovqa/myportfolio/blob/main/ТПР.png)
 
 
 
 
+И таблица принятия решений: https://docs.google.com/spreadsheets/d/1JtxFFQrc-15cRVdbYvs8AKARIY8nc2jxQr3ZS15BGZY/edit?usp=sharing
+
+Все требования, затронутые изменениями, были покрыты тест-кейсами: https://tms.devexplab.ru/projects/kuznetsov-7sprint-mobile/testcases
+
+По итогам тестирования были заведены баг-репорты в YouTrack: https://clck.ru/34U2T4
+
+С моим отчётом о тестировании по приложению можно ознакомиться по ссылке:https://docs.google.com/document/d/1FBclaexSuLWAFY4I8ESdD574V6HIu_SqqAVOwpoAAKM/edit
 
 
 
