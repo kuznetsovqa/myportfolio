@@ -134,13 +134,10 @@ Samsung Galaxy A12 ,ОС Android 12.0 ,разрешение экрана 1080х1
 При составлении проверок применялись такие техники тест-дизайна, как попарное тестирование, ссылка на таблицу: https://docs.google.com/spreadsheets/d/10FjjtN3cIZn-cZyZMX6W2WvQVjWrRfqcchadOuYdqBk/edit?usp=sharing
 
 
+И таблица принятия решений: https://docs.google.com/spreadsheets/d/1JtxFFQrc-15cRVdbYvs8AKARIY8nc2jxQr3ZS15BGZY/edit?usp=sharing
 
 ![ТПР](https://github.com/kuznetsovqa/myportfolio/blob/main/ТПР.png)
 
-
-
-
-И таблица принятия решений: https://docs.google.com/spreadsheets/d/1JtxFFQrc-15cRVdbYvs8AKARIY8nc2jxQr3ZS15BGZY/edit?usp=sharing
 
 Все требования, затронутые изменениями, были покрыты тест-кейсами: https://tms.devexplab.ru/projects/kuznetsov-7sprint-mobile/testcases
 
