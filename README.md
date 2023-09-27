@@ -36,7 +36,12 @@ https://tracker.yandex.ru/BUGSPLUS-48710
 ![MindMap](https://github.com/kuznetsovqa/myportfolio/blob/main/Mind%20Map.jpg)
 
 
+## 3) Спроектированы проверки для веб приложения Яндекс Маршруты, форма добавления прав
+Применены такие техники тест-дизайна, как классы эквивалентности и граничные значения для формы добавления прав, на основе данных техник созданы тест-кейсы для проверки.
 
+Ccылка на таблицу с классами эквивалентности и граничными значениями: https://docs.google.com/spreadsheets/d/1JPUnfIJbJ0tfConfFgttBw139m_gtdr7ZoaUHbGjb-o/edit#gid=0
+
+![Классы эквивалентности и граничные значения](https://github.com/kuznetsovqa/myportfolio/blob/main/Таблица%20КЭ%20и%20ГЗ.png)
 
 
 
