@@ -151,8 +151,29 @@ Samsung Galaxy A12 ,ОС Android 12.0 ,разрешение экрана 1080х1
 
 
 
+## 7) Тестирование API приложения "Яндекс прилавок"
+
+Задачей было протестировать функционал и валидацию ручки работы с курьером и работы с корзиной.
+
+Для тестирования API составил чек-лист:https://docs.google.com/spreadsheets/d/19JoWkUaaUexFKGZ4k7_D0-an2HHMnLnjMTJDO8Uf5ns/edit?usp=sharing
+
+Для тестирования использовался Postman, ссылка на мою коллекцию JSON файл: https://drive.google.com/file/d/1JEYPMuJagTCLCIqjNwvfJg_9BqdOiwOt/view
+
+По результатам тестирования оформил баг-репорты в YouTrack: https://kuznetsov-mars09.youtrack.cloud/issues/7SA
 
 
+В рамках проекта, поработал так же с консолью при анализе и изменении информационных логов , осуществлялось подключение к удалённому серверу.
+
+
+
+
+## 8) Работа с PostgreSQL
+
+Создавал запросы к базе данных приложения "Яндекс Прилавок"
+
+Считал количечество зарегистрированных пользователей в таблице user_model
+
+![User_model](https://github.com/kuznetsovqa/myportfolio/blob/main/SQl.png)
 
 
 
