@@ -42,15 +42,69 @@ https://tracker.yandex.ru/BUGSPLUS-48710
 ![Блок-схема](https://github.com/kuznetsovqa/myportfolio/blob/main/Блок-схема.png)
 
 
-## 3) Спроектированы проверки для веб приложения Яндекс Маршруты, форма добавления прав
-Применены такие техники тест-дизайна, как классы эквивалентности и граничные значения для формы добавления прав, на основе данных техник созданы тест-кейсы для проверки.
+## 3) Спроектированы проверки для новой версии веб приложения "Яндекс Маршруты", форма добавления прав
+Применены такие техники тест-дизайна, как классы эквивалентности и граничные значения для формы добавления прав при выборе транспорта "Каршеринг", на основе данных техник созданы тест-кейсы для проверки.
+
+Ссылка на требования в Wiki: https://wiki.yandex.ru/homepage/trebovanija-k-jandeks-marshruty-2.0/trebovanija-k-funkcionalnosti-karshering/
 
 Ccылка на таблицу с классами эквивалентности и граничными значениями: https://docs.google.com/spreadsheets/d/1JPUnfIJbJ0tfConfFgttBw139m_gtdr7ZoaUHbGjb-o/edit#gid=0
+
+По реузльтатам работы создан чек-лист в Яндекс TMS  для раздела "Каршеринг":https://tms.devexplab.ru/projects/kuznetsov-3sprint/testcases
+
+Так же созданы тест-кейсы для кнопки "Забронировать": https://tms.devexplab.ru/projects/kuznetsov-3sprint-testkeys/testcases
 
 ![Классы эквивалентности и граничные значения](https://github.com/kuznetsovqa/myportfolio/blob/main/Таблица%20КЭ%20и%20ГЗ.png)
 
 
 
+## 4) Проведено тестирования веб приложения "Яндекс Маршруты" , форма добавления прав, а так же новый функционал "Аэротакси" 
+
+Для тестирования новой функциональности, применялся сниффер Charles Proxy, так как бэк часть данного функционала еще не готова, целью было протестировать фонтенд часть новой функции.
+
+В работе использовались такие функции как Break Point на вид тнанспорта и MapLocal для автозамены.
+
+Ссылка на мою работу с Charles:https://drive.google.com/drive/folders/1KELVB2O-J4Lupbk12EY_QDKbP3zv1BBJ
+
+
+
+![Charles](https://github.com/kuznetsovqa/myportfolio/blob/main/Charles.png)
+
+![Charles2](https://github.com/kuznetsovqa/myportfolio/blob/main/Charles2.png)
+
+
+
+
+Приложение было протестировано в Яндекс Браузере и Mozila, в том числе протестирована вёрстка. По результатам оформил баги в Яндекс Трекер:
+https://tracker.yandex.ru/BUGSPLUS-80722
+
+https://tracker.yandex.ru/BUGSPLUS-80724
+
+https://tracker.yandex.ru/BUGSPLUS-80727
+
+https://tracker.yandex.ru/BUGSPLUS-80729
+
+https://tracker.yandex.ru/BUGSPLUS-80742
+
+https://tracker.yandex.ru/BUGSPLUS-80733
+
+
+Так же мной была протестирована валидация полей "Откуда" и "Куда" и оформлены баг-репорты в Яндекс Трекере:
+https://tracker.yandex.ru/BUGSPLUS-80775
+
+https://tracker.yandex.ru/BUGSPLUS-80779
+
+https://tracker.yandex.ru/BUGSPLUS-80780
+
+https://tracker.yandex.ru/BUGSPLUS-80781
+
+https://tracker.yandex.ru/BUGSPLUS-82096
+
+https://tracker.yandex.ru/BUGSPLUS-82091
+
+
+В ходе тестирования в Яндекс Браузере Яндекс Маршрутов 2.0, наличие нового вида транспорта аэротакси в режиме “Свой” и отображение расчета стоимости и времени. Выявлен баг с критичным приоритетом, так как название нового вида транспорта не отображается.
+
+С учетом этого, необходимо исправление данного дефекта, после чего повторное тестирование.
 
 
 
